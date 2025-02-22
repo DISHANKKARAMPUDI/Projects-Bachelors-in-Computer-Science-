@@ -14,7 +14,6 @@ Welcome to my portfolio repository! This repository showcases various projects I
 - [✈️ Airline Reservation Website](#-airline-reservation-website)
 - [🤖 AI-Powered Fitness Assistant](#-ai-powered-fitness-assistant)
 - [📌 Future Improvements](#-future-improvements)
-- [📫 Contact Me](#-contact-me)
 
 ---
 
